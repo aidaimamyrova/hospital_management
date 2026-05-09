@@ -1,11 +1,11 @@
-# Hospital Management System - Database Project
+=# 🏥 Hospital Management System - Database Project
 
 **AUCA Database Course Final Project**  
 *Submitted: May 9, 2026*
 
 ---
 
-## Project Description
+## 📋 Project Description
 
 A complete relational database system designed for hospital operations management. The system handles patient records, doctor appointments, admissions, billing, prescriptions, laboratory tests, and staff management.
 
@@ -28,7 +28,7 @@ A complete relational database system designed for hospital operations managemen
 
 ---
 
-## Database Design
+## 🗄️ Database Design
 
 ### ER Diagram
 
@@ -67,7 +67,7 @@ A complete relational database system designed for hospital operations managemen
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Database:** PostgreSQL 16
 - **Language:** SQL, PL/pgSQL
@@ -76,16 +76,14 @@ A complete relational database system designed for hospital operations managemen
 - **Version Control:** Git, GitHub
 
 ---
-##  Demo Video
 
->  Link to the drive:
-> https://drive.google.com/drive/u/1/folders/1-XyCQeSQkAwn-E39tlt4pOM8leRXXY5F
+## 🚀 Setup & Run Instructions
 
----
+### Prerequisites
+- PostgreSQL installed
+- Git installed
 
-##  Author
-
-**Aidai Mamyrova** — AUCA, Database, Spring 2026
-
-
-
+### 1. Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/hospital-management-db.git
+cd hospital-management-db
